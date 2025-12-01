@@ -1,0 +1,564 @@
+.margin-top-5{
+	margin-top:5px;
+}
+.margin-top-10{
+	margin-top:10px;
+}
+.margin-top-15{
+	margin-top:15px;
+}
+
+.margin-top-20{
+	margin-top:20px;
+}
+
+.margin-bottom-5{
+	margin-bottom:5px;
+}
+.margin-bottom-10{
+	margin-bottom:10px;
+}
+.margin-bottom-15{
+	margin-bottom:15px;
+}
+
+.margin-bottom-20{
+	margin-bottom:20px;
+}
+
+/*--- wedding-planner-listing ---*/
+
+.categories-title h2
+{
+	font-size: 26px;
+	font-family:'Poppins-SemiBold',sans-serif;
+	color: #242424;
+	margin-bottom: 0px;
+}
+
+.categories-main
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.categories-box
+{
+	width: 255px;
+	height: 263px;
+	background: #ffffff;
+	box-shadow: 0px 3px 14px #00000021;
+	border-radius: 6px;
+	margin-top: 20px;
+	padding: 10px 8px;
+	margin-left: auto;
+	margin-right: auto;
+	/* For designing issue start 29/11/2021 */
+	margin-bottom: 15px;
+	/* For designing issue end 29/11/2021 */
+}
+
+.categories-box img
+{
+	width: 239px;
+	height: 203px;
+}
+
+.categories-box h3
+{
+	font-size: 17px;
+	font-family:'Poppins-SemiBold',sans-serif;
+	color: #373737;
+	margin-top: 15px;
+}
+
+/*--- wedding-planner-listing ---*/
+
+
+
+/*--- wedding planner left ---*/
+
+.wedding-planner-left
+{
+	background: #FFFFFF;
+	width: 100%;
+	height: auto;
+	padding: 20px 20px;
+	box-shadow: 0px 3px 16px #0000001A;
+	border-radius: 6px;
+}
+
+.new-matry-select-left-menu {
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+}
+
+.dashbrd_cstm-left-menu {
+	width: 100%;
+    height: 42px;
+    border: 1px solid #A5A5A5;
+    color: #585858;
+    -webkit-appearance: none;
+    font-family: Poppins-Regular;
+    font-size: 14px;
+    padding: 11px 11px !important;
+    border-radius: 5px;
+    font-family: 'Poppins-Regular',sans-serif;
+}
+
+.select_box-left-menu:after {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #585858;
+    position: absolute;
+    top: 46%;
+    right: 27px;
+    content: "";
+    z-index: 999;
+}
+
+
+.ni-input-1 {
+    height: 42px;
+    border: 1px solid #A5A5A5;
+    -webkit-appearance: none;
+    color: #585858;
+    padding: 0px 11px;
+}
+
+.left-menu-search-btn {
+    background:#FD3030;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    width: 100%;
+    height: 42px;
+    font-size: 16px;
+    font-family: 'Poppins-Medium',sans-serif;
+}
+
+.left-menu-search-btn:hover
+{
+	background: #DE2A2A;
+}
+
+/*--- wedding planner left ---*/
+
+
+
+
+/*--- wedding planner right ---*/
+
+.wedding-planner-right-box
+{
+    background: #FFFFFF;
+    width: 100%;
+    height: auto;
+    padding: 15px 15px 15px 15px;
+    box-shadow: 0px 3px 14px #00000021;
+    border-radius: 6px;
+}
+
+.fd-img img
+{
+	width: 100%;
+}
+
+.fd-title h3
+{
+	font-size: 18px;
+	font-family:'Poppins-SemiBold',sans-serif;
+	color: #464646;
+	margin-top: 0px;
+}
+
+.fd-title h4
+{
+	font-size: 14px;
+	font-family:'Poppins-Light',sans-serif;
+	color: #727272;
+	margin-top: 0px;
+}
+
+.fd-review h4
+{
+	font-size: 13px;
+	font-family:'Poppins-Light',sans-serif;
+	color: #A5A5A5;
+	margin-top: 5px;
+	float: right;
+}
+
+
+
+.rating-wedding-1 i {
+    color: #ada7a7;
+    font-size: 16px;
+}
+
+.fill-star i
+{
+	color: #FCAE48;
+}
+
+.fd-desc p
+{
+	font-size: 13px;
+	font-family: 'Poppins-Light',sans-serif;
+	color: #727272;
+	line-height: 20px;
+	padding-bottom: 0px;
+}
+
+
+.price-request-btn {
+    background:#FD3030;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    height: 35px;
+    font-size: 14px;
+    font-family: 'Poppins-Regular',sans-serif;
+}
+
+.price-request-btn:hover
+{
+	background: #DE2A2A;
+}
+
+.fd-icon i
+{
+	color: #8A8A8A;
+	font-size: 18px;
+	margin-top: 6px;
+}
+
+.fill-fav i
+{
+	color: #F70000;
+}
+
+.ad-img-2 img
+{
+	border-radius: 6px;
+	box-shadow: 0px 5px 12px #00000021;
+}
+
+/*--- wedding planner right ---*/
+
+.d-margin-top-10
+{
+	margin-top: 10px;
+}
+
+.margin-bottom-10
+{
+	margin-bottom: 10px;
+}
+
+.margin-top-20
+{
+	margin-top: 20px;
+}
+
+.margin-bottom-20
+{
+	margin-bottom: 20px;
+}
+
+.pad-0
+{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.pad-l-0
+{
+	padding-left: 0px;
+}
+
+
+/*--- matrimony member ---*/
+
+
+.pad-l-5
+{
+	padding-left: 5px;
+}
+
+.pad-r-5
+{
+	padding-right: 5px;
+}
+
+.matrimony-member-main
+{
+	width: 100%;
+	height: 58px;
+	background: #FD3030;
+	padding: 20px;
+	border-radius: 4px;
+}
+
+.matrimony-member-main h2
+{
+	font-size: 19px;
+	font-family: 'Poppins-Medium',sans-serif;
+	color: #FFFFFF;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+
+.matrimony-member-box-overlay
+{
+	background: transparent linear-gradient(180deg, #00000000 0%, #000000 100%) 0% 0% no-repeat padding-box;
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
+    border-radius: 4px;
+}
+
+.matrimony-member-box
+{	
+	width: 100%;
+	height: 119px;
+	background:url(../images/c-1.png);
+	background-repeat: no-repeat;
+	border-radius: 4px;
+	background-size: cover;
+	background-position: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.matrimony-member-box h3
+{
+	font-size: 22px;
+	font-family: 'Poppins-SemiBold',sans-serif;
+	color: #FFFFFF;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	position: absolute;
+	bottom: 25px;
+    left: 40px;
+}
+
+.m-m-box-img-2
+{	
+	background:url(../images/c-2.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-m-box-img-3
+{	
+	background:url(../images/c-3.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-m-box-img-4
+{	
+	background:url(../images/c-4.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-m-box-img-5
+{	
+	background:url(../images/c-5.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-m-box-img-6
+{	
+	background:url(../images/c-6.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-m-box-img-7
+{	
+	background:url(../images/c-7.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.m-m-box-img-8
+{	
+	background:url(../images/c-8.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-m-box-img-9
+{	
+	background:url(../images/c-9.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-m-box-img-10
+{	
+	background:url(../images/c-10.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.m-m-box-img-11
+{	
+	background:url(../images/c-11.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.m-m-box-img-12
+{	
+	background:url(../images/c-12.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/*--- matrimony member ---*/
+
+
+
+/*--- vendor detail ---*/
+
+.vendor-silder .testimonial 
+{
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+}
+
+.vendor-silder .testimonial img 
+{
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+}
+
+.vendor-silder .owl-theme .owl-controls .owl-page span
+{
+	background: #fff!important;
+}
+
+.vendor-silder .owl-theme .owl-controls
+{
+	top: -45px;
+}
+
+.vendor-title h3
+{
+	font-size: 24px;
+	font-family: 'Poppins-SemiBold',sans-serif;
+	color: #464646;
+	margin-top: 0px;
+}
+
+.vendor-review a h3
+{
+	font-size: 17px;
+	font-family: 'Poppins-Medium',sans-serif;
+	color: #0080FF;
+	margin-top: 5px;
+}
+
+.v-rating-wedding-1 i {
+    color: #ada7a7;
+    font-size: 16px;
+}
+
+.v-fill-star i
+{
+	color: #FCAE48;
+}
+
+.v-d-right h3
+{
+	font-size: 15px;
+	font-family: 'Poppins-Medium',sans-serif;
+	color: #4D4D4D;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.v-d-left h3
+{
+	font-size: 15px;
+	font-family: 'Poppins-Light',sans-serif;
+	color: #727272;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.v-d-left-link a h3
+{
+	font-size: 15px;
+	font-family: 'Poppins-Regular',sans-serif;
+	color: #0080FF;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.vendor-p p
+{
+	font-size: 14px;
+	font-family: 'Poppins-Regular',sans-serif;
+	color: #727272;
+}
+
+.v-price-request-btn {
+    background: #FD3030;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    font-family: 'Poppins-Regular',sans-serif;
+}
+
+.v-send-enquiry-btn
+{
+	background: #4A30FD;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    font-family: 'Poppins-Regular',sans-serif;
+}
+/*--- vendor detail ---*/
+
+.white-color{
+	color:white;
+}
+.white-color:hover{
+	color:white;
+}
+.pllner {
+    font-size: 21px;
+    margin-top: 10px;
+}

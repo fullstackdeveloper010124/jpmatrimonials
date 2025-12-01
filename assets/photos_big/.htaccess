@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*\.(gif|jpeg|jpg|png))$ https://www.jpmatrimonials.com/assets/photos_big/watermark.php?image=$1 [NC] 

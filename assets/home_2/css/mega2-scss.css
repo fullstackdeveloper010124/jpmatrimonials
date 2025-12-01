@@ -1,0 +1,113 @@
+/* Custom #color_code#
+	#ni_text_color# = #fff;
+	#ni_bg_color# =#e40955;
+    #ni_bg_color_rgb# =rgba(228, 9, 85, 0.82); 
+*/
+/*._hamburge ul li a{
+	color: #ni_text_color#;
+}*/
+.cool-link a {
+    color: #ni_bg_color# !important;
+}
+.menu-active:after {
+    background: #ni_bg_color# !important;
+}
+._hamburge ul li:last-child a{
+	background: #ni_bg_color# !important;
+}
+.banner-contact-1{
+	background: #ni_bg_color# !important;
+}
+.tabbable-line > .nav-tabs > li.active > a{
+	color: #ni_bg_color# !important;
+}
+.tabbable-line > .nav-tabs > li.active{
+	border-bottom: 3px solid #ni_bg_color# !important;
+}
+.md-radio label:after{
+	background: #ni_bg_color# !important;
+}
+.reg-fect-box{
+	background: #ni_bg_color# !important;
+}
+.reg-cb-text a{
+	color: #ni_bg_color# !important;
+}
+.reg-btn{
+	background-color: #ni_bg_color# !important;
+	border: 1px solid #ni_bg_color#;
+}
+.reg-btn:hover, .reg-btn:focus{
+    color: #ni_bg_color# !important;
+    background: #fff !important;
+}
+.searchnow{
+	background-color: #ni_bg_color# !important;
+}
+::-webkit-scrollbar-thumb{
+	background: #ni_bg_color# !important;
+}
+.more-success-stories{
+	background: #ni_bg_color# !important;
+}
+.service-box-new{
+	background-color: #ni_bg_color# !important;
+}
+.read-more-btn{
+	color: #ni_bg_color# !important;
+}
+.read-more-btn:hover{
+    background: #ni_bg_color# !important;
+    background-color: #fff !important;
+}
+.millions-of-happy-stories-box .owl-theme .owl-controls .owl-page.active span, .millions-of-happy-stories-box .owl-theme .owl-controls.clickable .owl-page:hover span{
+	background: #ni_bg_color# !important;
+}
+.option-1-title h4,.option-2-title h4,.option-3-title h4,.option-4-title h4{
+	color: #ni_bg_color# !important;
+}
+.option-3-data{
+	background: #ni_bg_color# !important;
+}
+.planning-tools h3 span{
+	color: #ni_bg_color# !important;
+}
+.get-started-btn{
+	background-color: #ni_bg_color# !important;
+	border: 1px solid #ni_bg_color# !important;
+}
+.get-started-btn:hover, .get-started-btn:focus{
+    background: #f5f5f5 !important;
+    color: #ni_bg_color# !important;
+}
+.features{
+	background: #ni_bg_color# !important;
+}
+.stay-connected-title p span{
+	color: #ni_bg_color# !important;
+}
+.why-choose-us-data h3{
+	color: #ni_bg_color# !important;
+}
+.footer-bg{
+	background-color: #ni_bg_color# !important;
+}
+.progress-wrap::after{
+	color: #ni_bg_color# !important;
+}
+.newHamburge,#dismiss,.ul-li-bg li{
+	background: #ni_bg_color# !important;
+}
+._hamburge li:hover:after{
+	background: #ni_bg_color# !important;
+}
+._hamburge li:last-child:hover:after {
+    background: none !important;
+}
+.how-does-it-work-new,.mobile-app-feact-new,.browse-matri-data-new{
+    background: #ni_bg_color# !important;
+}
+.last-child-menu{
+	background: #ni_bg_color# !important;
+}
+.a{fill:#ni_bg_color# !important;}

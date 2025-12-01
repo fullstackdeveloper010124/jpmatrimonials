@@ -1,0 +1,3 @@
+<link href="<?php echo $base_url;?>assets/custom_chat/css/style.css?ver=<?php echo filemtime('assets/custom_chat/css/style.css') ?>" rel="stylesheet">
+<link href="<?php echo $base_url;?>assets/custom_chat/css/responsive.css?ver=<?php echo filemtime('assets/custom_chat/css/responsive.css') ?>" rel="stylesheet">
+<link href="<?php echo $base_url;?>assets/custom_chat/css/all.css?ver=<?php echo filemtime('assets/custom_chat/css/all.css') ?>" rel="stylesheet">
